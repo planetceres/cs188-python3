@@ -1,4 +1,4 @@
-###Berkeley cs188 - Introduction to AI
+### Berkeley cs188 - Introduction to AI
 #### Python 3
 
 This python 3 compatible version of Berkeley's cs188 course came from\
